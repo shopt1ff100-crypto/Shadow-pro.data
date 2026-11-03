@@ -1,0 +1,34 @@
+{
+  "mod_skin": {
+    "normal": [
+      {
+        "name": "Skin Thường 1",
+        "img": "https://i.ibb.co/6PZ4Z9B/avatar-default.png",
+        "link": "https://link-download-file-cua-ban.com/skin1"
+      }
+    ],
+    "vip": [
+      {
+        "name": "Skin VIP 1 (Độc quyền)",
+        "img": "https://i.ibb.co/6PZ4Z9B/avatar-default.png",
+        "link": "https://link-download-file-cua-ban.com/skin_vip1"
+      }
+    ]
+  },
+  "aim_menu": {
+    "normal": [
+      {
+        "name": "File Aim Thường 1",
+        "img": "https://i.ibb.co/6PZ4Z9B/avatar-default.png",
+        "link": "https://link-download-file-cua-ban.com/aim1"
+      }
+    ],
+    "vip": [
+      {
+        "name": "File Aim VIP 1",
+        "img": "https://i.ibb.co/6PZ4Z9B/avatar-default.png",
+        "link": "https://link-download-file-cua-ban.com/aim_vip1"
+      }
+    ]
+  }
+}
