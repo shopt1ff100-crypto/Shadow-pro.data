@@ -2,25 +2,15 @@
   "mod_skin": {
     "normal": [
       {
-        "name": "Skin Thường 1",
-        "img": "https://i.ibb.co/6PZ4Z9B/avatar-default.png",
-        "link": "https://google.com"
-      },
-      {
-        "name": "Skin Thường 2",
-        "img": "https://i.ibb.co/6PZ4Z9B/avatar-default.png",
+        "name": "Skin Thường Mẫu",
+        "img": "https://cdn-icons-png.flaticon.com/512/2933/2933245.png",
         "link": "https://google.com"
       }
     ],
     "vip": [
       {
-        "name": "Skin VIP 1",
-        "img": "https://i.ibb.co/6PZ4Z9B/avatar-default.png",
-        "link": "https://google.com"
-      },
-      {
-        "name": "Skin VIP 2",
-        "img": "https://i.ibb.co/6PZ4Z9B/avatar-default.png",
+        "name": "Skin VIP Mẫu",
+        "img": "https://cdn-icons-png.flaticon.com/512/2933/2933245.png",
         "link": "https://google.com"
       }
     ]
@@ -28,15 +18,15 @@
   "aim_menu": {
     "normal": [
       {
-        "name": "File Aim Thường 1",
-        "img": "https://i.ibb.co/6PZ4Z9B/avatar-default.png",
+        "name": "Aim Thường Mẫu",
+        "img": "https://cdn-icons-png.flaticon.com/512/2933/2933245.png",
         "link": "https://google.com"
       }
     ],
     "vip": [
       {
-        "name": "File Aim VIP 1",
-        "img": "https://i.ibb.co/6PZ4Z9B/avatar-default.png",
+        "name": "Aim VIP Mẫu",
+        "img": "https://cdn-icons-png.flaticon.com/512/2933/2933245.png",
         "link": "https://google.com"
       }
     ]
