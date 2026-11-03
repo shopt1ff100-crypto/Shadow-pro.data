@@ -1,34 +1,10 @@
 {
   "mod_skin": {
-    "normal": [
-      {
-        "name": "Skin Thường Mẫu",
-        "img": "https://cdn-icons-png.flaticon.com/512/2933/2933245.png",
-        "link": "https://google.com"
-      }
-    ],
-    "vip": [
-      {
-        "name": "Skin VIP Mẫu",
-        "img": "https://cdn-icons-png.flaticon.com/512/2933/2933245.png",
-        "link": "https://google.com"
-      }
-    ]
+    "normal": [],
+    "vip": []
   },
   "aim_menu": {
-    "normal": [
-      {
-        "name": "Aim Thường Mẫu",
-        "img": "https://cdn-icons-png.flaticon.com/512/2933/2933245.png",
-        "link": "https://google.com"
-      }
-    ],
-    "vip": [
-      {
-        "name": "Aim VIP Mẫu",
-        "img": "https://cdn-icons-png.flaticon.com/512/2933/2933245.png",
-        "link": "https://google.com"
-      }
-    ]
+    "normal": [],
+    "vip": []
   }
 }
