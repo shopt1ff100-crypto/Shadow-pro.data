@@ -10,7 +10,13 @@
         "vip": []
     },
     "aim_menu": {
-        "normal": [],
+        "normal": [
+            {
+                "name": "Menu",
+                "img": "https:\/\/picturetolink.com\/i\/GRvINo677L.webp",
+                "link": "https:\/\/link4m.net\/nv9KJ0r"
+            }
+        ],
         "vip": []
     }
 }
