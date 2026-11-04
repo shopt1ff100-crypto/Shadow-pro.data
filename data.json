@@ -1,10 +1,16 @@
 {
-  "mod_skin": {
-    "normal": [],
-    "vip": []
-  },
-  "aim_menu": {
-    "normal": [],
-    "vip": []
-  }
+    "mod_skin": {
+        "normal": [
+            {
+                "name": "Thuận Mod",
+                "img": "https:\/\/picturetolink.com\/i\/2az5Evn5W1.jpg",
+                "link": "https:\/\/link4m.net\/xPMz32Pc"
+            }
+        ],
+        "vip": []
+    },
+    "aim_menu": {
+        "normal": [],
+        "vip": []
+    }
 }
